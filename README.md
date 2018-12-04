@@ -2,6 +2,11 @@
 
 vbmapg is a procedural generation library for 2D-maps in Go. Based on perlin-noise.
 
+[![Build Status](https://travis-ci.org/vikebot/vbmapg.svg?branch=master)](https://travis-ci.org/vikebot/vbmapg)
+[![codecov](https://codecov.io/gh/vikebot/vbmapg/branch/master/graph/badge.svg)](https://codecov.io/gh/vikebot/vbmapg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/vikebot/vbmapg)](https://goreportcard.com/report/github.com/vikebot/vbmapg)
+[![GoDoc](https://godoc.org/github.com/vikebot/vbmapg?status.svg)](https://godoc.org/github.com/vikebot/vbmapg)
+
 ## Usage
 
 ```shell
