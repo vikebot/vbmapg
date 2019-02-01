@@ -4,7 +4,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/aquilax/go-perlin"
+	perlin "github.com/aquilax/go-perlin"
 )
 
 type Map [][]float64
